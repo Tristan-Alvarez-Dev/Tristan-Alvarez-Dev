@@ -40,7 +40,6 @@ I love solving complex challenges, leading teams, and delivering products that m
 
 ---
 
-### ⚙️ Tech Stickers
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
